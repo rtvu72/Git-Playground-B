@@ -1,1 +1,2 @@
 # Git-Playground-B
+깃으로 놀아보자
